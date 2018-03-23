@@ -1,0 +1,6 @@
+C:\Users\STUDENT\Desktop\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.dll
+C:\Users\STUDENT\Desktop\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.pdb
+C:\Users\STUDENT\Desktop\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.dll
+C:\Users\STUDENT\Desktop\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.pdb
